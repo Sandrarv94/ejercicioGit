@@ -35,3 +35,11 @@ section{
     margin: 15px;
     background-color: rgb(144, 227, 227);
 }
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 0;
+}
